@@ -1,16 +1,16 @@
-## Hi there 👋
+### I am Asgar
+As a Cybersecurity Professional, I specialize in **Digital Forensics and Incident Response (DFIR)**. I have experience defending enterprise networks, enpoints, identity, and cloud resources. I am experienced in successfully leading end-to-end response for multi-million dollar enterprises in eradicating ransomware attacks, business email compromise (BEC), cloud resource abuse, and command-and-control (C2) activities.
 
-<!--
-**lanceterminal/lanceterminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Credentials
+- [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/d2d01ae1-297d-4b64-b0ea-e95d584e10ec/public_url)
+- [GIAC Certified Intrusion Analyst (GCIA)](https://www.credly.com/badges/9b3a8315-373d-468d-aa01-ed422e7876c4/public_url)
+- [GIAC Certified Security Essentials (GSEC)](https://www.credly.com/badges/14d02211-c91e-4906-8d90-ec7267ed47c9/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/1addd3a4-9491-4df3-a01f-728256447607/public_url)
 
-Here are some ideas to get you started:
+### Achievements
+- [SANS Core Netwars Tournament of Champions 2025](https://www.credly.com/badges/1addd3a4-9491-4df3-a01f-728256447607/public_url)
+- [GIAC Advisory Board](https://www.credly.com/badges/10ea3610-0fe2-42f4-b000-847bd95d41a8/public_url)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**“Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.”**
+*― Sun Tzu, The Art of War*
