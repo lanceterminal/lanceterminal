@@ -39,6 +39,7 @@ open source contributions:
   - Sigma (Open signature format for detection)
 ```
 ---
+
 [![Email](https://img.shields.io/badge/Email-connect@asgar.net-ffffff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:connect@asgar.net) 
 [![Substack](https://img.shields.io/badge/Substack-lanceterminal-FF6719?style=flat-square&logo=substack&logoColor=white&labelColor=0d1117)](https://substack.com/@lanceterminal) 
 [![GitHub](https://img.shields.io/badge/GitHub-lanceterminal-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/lanceterminal/) 
