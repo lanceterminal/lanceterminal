@@ -19,10 +19,10 @@ asgar:x:1337:1337:Threat Hunter, Detection Engineer:/home/asgar:/bin/bash
 name: Asgar, Tashnim 
 handle: lanceterminal
 coverage:
-  - Enterprise network defense
-  - Endpoint forensics
-  - Identity & cloud IR
-  - Detection engineering
+  - Enterprise Cyber Defense Architect
+  - Digital Forensics Incident Response
+  - Identity & Cloud Incident Response
+  - Detection Engineering
 ```
 
 ---
