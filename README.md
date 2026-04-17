@@ -45,4 +45,5 @@ open source contributions:
 [![GitHub](https://img.shields.io/badge/GitHub-lanceterminal-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/lanceterminal/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-asgartashnim-0077b5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/asgartashnim) 
 [![X](https://img.shields.io/badge/X-lancetermina1-ffffff?style=flat-square&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/lancetermina1)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lanceterminal&color=161B22&style=flat-square&label=Visitors)
