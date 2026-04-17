@@ -37,12 +37,7 @@ professional memberships:
 
 open source contributions:
   - Sigma (Open signature format for detection)
-
 ```
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lanceterminal&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true)
-
-
 ---
 [![Email](https://img.shields.io/badge/Email-connect@asgar.net-ffffff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:connect@asgar.net) 
 [![Substack](https://img.shields.io/badge/Substack-lanceterminal-FF6719?style=flat-square&logo=substack&logoColor=white&labelColor=0d1117)](https://substack.com/@lanceterminal) 
