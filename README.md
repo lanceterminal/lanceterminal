@@ -23,37 +23,20 @@ coverage:
   - Digital Forensics Incident Response
   - Identity & Cloud Incident Response
   - Detection Engineering
+
+credentials:
+  - GIAC Certified Intrusion Analyst (GCIA) #18118
+  - GIAC Certified Incident Hander (GCIH) #51458
+  - GIAC Security Essentials Certification (GSEC) #57538
+
+membership:
+  - GIAC Advisory Board
+  - Information Systems Security Association (ISSA)
+
+open source contribution:
+  - Sigma (Open signature format for detection)
+
 ```
-
----
-
-## `./certifications`
-
-<div align="center">
-
-| Credential | Issuer | Verify |
-|---|---|---|
-| 🥇 GIAC Certified Incident Handler (GCIH) | GIAC / SANS | [Credly](https://www.credly.com/badges/d2d01ae1-297d-4b64-b0ea-e95d584e10ec/public_url) |
-| 🔍 GIAC Certified Intrusion Analyst (GCIA) | GIAC / SANS | [Credly](https://www.credly.com/badges/9b3a8315-373d-468d-aa01-ed422e7876c4/public_url) |
-| 🛡️ GIAC Security Essentials (GSEC) | GIAC / SANS | [Credly](https://www.credly.com/badges/14d02211-c91e-4906-8d90-ec7267ed47c9/public_url) |
-| ✅ CompTIA Security+ | CompTIA | [Credly](https://www.credly.com/badges/1addd3a4-9491-4df3-a01f-728256447607/public_url) |
-
-</div>
-
----
-
-## `./achievements`
-
-<div align="center">
-
-| Achievement | Year |
-|---|---|
-| 🏆 SANS Core NetWars Tournament of Champions | 2025 |
-| 🎖️ GIAC Advisory Board Member | Active |
-
-</div>
-
----
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lanceterminal&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true)
 
