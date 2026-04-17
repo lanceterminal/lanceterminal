@@ -36,6 +36,9 @@ membership:
 open source contribution:
   - Sigma (Open signature format for detection)
 
+service:
+  - US Marine Veteran
+
 ```
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lanceterminal&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true)
