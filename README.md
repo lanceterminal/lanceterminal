@@ -8,7 +8,7 @@
   
   ---
 
-## `whoami`
+### `whoami`
 
 ```bash
 $ cat /etc/passwd | grep asgar
@@ -18,26 +18,25 @@ asgar:x:1337:1337:Threat Hunter, Detection Engineer:/home/asgar:/bin/bash
 ```yaml
 name: Asgar, Tashnim 
 handle: lanceterminal
-coverage:
+service: US Marine Veteran
+
+expertise:
   - Enterprise Cyber Defense Architect
   - Digital Forensics Incident Response
   - Identity & Cloud Incident Response
   - Detection Engineering
 
-credentials:
+certified credentials:
   - GIAC Certified Intrusion Analyst (GCIA) #18118
   - GIAC Certified Incident Hander (GCIH) #51458
   - GIAC Security Essentials Certification (GSEC) #57538
 
-membership:
+professional memberships:
   - GIAC Advisory Board
   - Information Systems Security Association (ISSA)
 
-open source contribution:
+open source contributions:
   - Sigma (Open signature format for detection)
-
-service:
-  - US Marine Veteran
 
 ```
 
