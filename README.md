@@ -64,4 +64,3 @@ coverage:
 [![GitHub](https://img.shields.io/badge/GitHub-lanceterminal-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/lanceterminal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-asgartashnim-0077b5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/asgartashnim)
 [![X](https://img.shields.io/badge/X-lancetermina1-ffffff?style=flat-square&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/lancetermina1)
-[![Discord](https://img.shields.io/badge/Discord-asgar.net-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://asgar.net/)
