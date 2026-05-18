@@ -34,9 +34,6 @@ certified credentials:
 professional memberships:
   - GIAC Advisory Board
   - Information Systems Security Association (ISSA)
-
-open source contributions:
-  - Sigma (Open signature format for detection)
 ```
 ---
 
